@@ -11,4 +11,7 @@ This is the repository for group 4 of ST4-GSI EDF EI
 
 ## Repository structure :
 
-
+- Part i : Contains the different parts of our report
+- .gitignore : To avoid unnecessary files to be tracked
+- Excel file : Dataset of historical data
+- economic-model_alternative : First try at the third part, file is deprecated
